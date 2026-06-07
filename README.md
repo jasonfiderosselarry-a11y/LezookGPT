@@ -38,7 +38,7 @@ Le projet est ultra-léger et se compose de seulement 4 fichiers principaux :
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com
+git clone https://github.com/jasonfiderosselarry-a11y/LezookGPT.git
 cd LezookGPT
 ```
 
