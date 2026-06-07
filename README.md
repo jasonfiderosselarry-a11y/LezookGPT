@@ -61,7 +61,7 @@ Avant de lancer le script, vous devez exporter la clé API OpenRouter dans votre
 Exécutez la commande suivante dans votre terminal :
 
 ```bash
-export OPENROUTER_API_KEY="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"
+export OPENROUTER_API_KEY="api_key openrouter"
 ```
 
 *(Note : La clé est également gérée en interne dans `config.py` pour assurer la gratuité et la simplicité d'accès).*
