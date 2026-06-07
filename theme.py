@@ -80,10 +80,11 @@ def big_banner():
         _color("\t\tContact:", BOLD + CYAN) + " +261 34 06 604 50 | "
         + _color("email:", BOLD + CYAN) + " jason.fiderosse.larry@gmail.com"
     )
-    credit = _color("\t\tCréé par Jason (LeszooksHacker)", DIM + YELLOW)
-    repo = _color("\t\thttps://github.com/jasonfiderosselarry-a11y", BLUE + BOLD)
+    credit = _color("\t\tCréé par Jason Brody (LeszooksHacker)", DIM + YELLOW)
+    my_account = _color("\t\thttps://www.facebook.com/jas.n.br.dy", GREEN + BOLD)
+    repo = _color("\t\thttps://github.com/jasonfiderosselarry-a11y/LezookGPT.git", BLUE + BOLD)
     Info = _color("\t     Info:", BOLD + CYAN) + " Un IA pour l'usage offensif sur le sécurité"
-    block = f"{header}\n{contact}\n{credit}\n{repo}\n{Info}\n"
+    block = f"{header}\n{contact}\n{credit}{my_account}\n{repo}\n{Info}\n"
     return _center_lines(block)
 
 
