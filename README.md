@@ -6,7 +6,7 @@ Un outils IA offensif inspiré de Hexsec GPT créér par Jason (LeszooksHackers)
 [![API Provider](https://shields.io)](https://openrouter.ai)
 [![Purpose](https://shields.io)]()
 
-(<img width="1366" height="768" alt="Screenshot_2026-06-07_12_46_56" src="https://github.com/user-attachments/assets/809a6cad-0444-4194-9563-56ea5ea31678" />)
+<img width="1366" height="768" alt="Screenshot_2026-06-07_12_46_56" src="https://github.com/user-attachments/assets/809a6cad-0444-4194-9563-56ea5ea31678" />
 
 LezookGPT est un framework d'intelligence artificielle offensive inspiré de **Hexsec GPT**. Il a été amélioré pour intégrer un système de gestion et d'accès direct aux fichiers locaux, supporte 3 langues, et fonctionne nativement avec OpenRouter.
 
