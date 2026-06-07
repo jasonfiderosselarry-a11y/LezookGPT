@@ -57,6 +57,13 @@ pip install -r requirements.txt
 Avant de lancer le script, vous devez exporter la clé API OpenRouter dans votre terminal.
 
 ### Étape 1 : Activer la clé API
+Il faut d'abord changer la ligne 7 dans config.py:
+```bash
+nano config.py
+line 7 : API_KEY = os.getenv("votre_api_key_sur_openrouter") or "votre_api_key_sur_openrouter"
+ctrl + s
+ctrl + x
+```
 
 Exécutez la commande suivante dans votre terminal :
 
