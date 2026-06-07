@@ -4,7 +4,7 @@
 import os
 # Priorité à la variable d'environnement pour des raisons de sécurité.
 # Pour éviter d'exposer la clé, le fallback est vide — configure `OPENROUTER_API_KEY`.
-API_KEY = os.getenv("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") or "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"
+API_KEY = os.getenv("api_key openrouter") or "api_key openrouter"
 
 # Choix du modèle
 MODEL_NAME = "google/gemini-2.5-flash"
